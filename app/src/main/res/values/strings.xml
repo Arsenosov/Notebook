@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notebook</string>
+    <string name="scheduled_calls">Scheduled calls</string>
+    <string name="contacts_menu">Contacts menu</string>
+    <string name="add_scheduled_call">Add scheduled call</string>
+    <string name="add_contact">Add contact</string>
+</resources>
